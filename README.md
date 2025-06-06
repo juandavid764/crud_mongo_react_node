@@ -332,23 +332,3 @@ npm run lint     # Ejecutar linter
 npm start        # Iniciar en modo producción
 npm run dev      # Iniciar con nodemon (desarrollo)
 ```
-
-## 🌟 Características Destacadas
-
-- **Diseño profesional** con Tailwind CSS
-- **Búsqueda inteligente** con debounce y autocompletado
-- **Validaciones robustas** en frontend y backend
-- **Manejo de errores** user-friendly
-- **Performance optimizada** con paginación y lazy loading
-- **Código documentado** y mantenible
-- **Responsive design** para móviles y desktop
-
-## 📞 Soporte
-
-Para dudas o problemas técnicos, contactar a: **sergio@drenvio.com**
-
----
-
-**Desarrollado como prueba técnica**  
-*React + MongoDB - Sistema de Gestión de Productos*  
-*Junio 2025*
